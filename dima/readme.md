@@ -1,1 +1,1 @@
-# train.csv = titanik data
+# train.csv = titanic data
