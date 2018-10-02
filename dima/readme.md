@@ -1,1 +1,1 @@
-#smth
+# train.csv = titanik data
